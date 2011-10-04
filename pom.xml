@@ -50,9 +50,6 @@
 						<include>**/When*.java</include>
 						<include>**/*Test.java</include>
 					</includes>
-					<parallel>classes</parallel>
-					<threadCount>4</threadCount>
-					<perCoreThreadCount>true</perCoreThreadCount>
 				</configuration>
 			</plugin>
 			<plugin>
